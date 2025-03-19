@@ -1,5 +1,3 @@
-![This is an image](https://www.inthecloud247.com/wp-content/uploads/2022/06/GitHub-PowerShell.png)
+# Deployment Intune Scripts
 
-Repository which holds PowerShell scripts, mostly related to Endpoint Management.
-
-Related blog posts can be found [Here](https://www.inthecloud247.com/)
+Scripts to help do stuff in Intune/AzureAD, mostly related to Endpoint Management.
